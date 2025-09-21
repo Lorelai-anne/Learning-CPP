@@ -1,4 +1,6 @@
-// ConsoleApplication1.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Simple Calculator
+// This program contains a main function
+// The calculator can multiply, divide, subtract, and add two numbers to each other with an option continue
 //
 
 #include <iostream>
