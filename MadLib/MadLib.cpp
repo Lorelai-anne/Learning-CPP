@@ -1,16 +1,26 @@
 // MadLibs.cpp
 // Creates a short six lie story and asks the user for ~8 different words
-// contains a main method and a helper method ask(string prompt) to fix repetition
+// Contains :
+//		main method to run project and print mad lib
+//		ask method which requests user input, contains error handling
 //
 
 #include <iostream>
 #include <string>
+#include <algorithm>
 
 std::string ask(std::string prompt) {
 	std::string response;
 	std::cout << prompt;
-	while (response.empty()) {
+	bool valid = false;
+	while (!valid) { //if iuser input is invalid
 		std::getline(std::cin, response);
+		if (response.empty() || std::all_of(response.begin(),response.end(),isspace)) { //if input string is empty or just contains strings
+			std::cout << "Invalid input, please enter " << prompt.substr(6, prompt.length()); //re-request input answer
+		}
+		else {
+			valid = true;
+		}
 	}
 	return response;
 }

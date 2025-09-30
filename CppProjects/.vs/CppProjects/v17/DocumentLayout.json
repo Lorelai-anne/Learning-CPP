@@ -3,11 +3,8 @@
   "WorkspaceRootPath": "D:\\Learning-CPP\\CppProjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FEBAA0E-D50D-4037-A9D7-58F882A1CBFD}|..\\MadLib\\MadLib.vcxproj|D:\\Learning-CPP\\MadLib\\MadLib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44FC5DB7-2AD9-477E-B427-2505F3D0A21E}|CppProjects\\CppProjects.vcxproj|D:\\Learning-CPP\\CppProjects\\CppProjects\\SimpleCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44FC5DB7-2AD9-477E-B427-2505F3D0A21E}|CppProjects\\CppProjects.vcxproj|solutionrelative:CppProjects\\SimpleCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5AF128B8-6157-4AFE-BF5B-40B2D5F76BAC}|Exponents\\Exponents.vcxproj|D:\\Learning-CPP\\CppProjects\\Exponents\\Exponents.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5AF128B8-6157-4AFE-BF5B-40B2D5F76BAC}|Exponents\\Exponents.vcxproj|solutionrelative:Exponents\\Exponents.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MadLib.cpp",
-              "DocumentMoniker": "D:\\Learning-CPP\\MadLib\\MadLib.cpp",
-              "RelativeDocumentMoniker": "..\\MadLib\\MadLib.cpp",
-              "ToolTip": "D:\\Learning-CPP\\MadLib\\MadLib.cpp",
-              "RelativeToolTip": "..\\MadLib\\MadLib.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABSAAAAAAAAAA==",
+              "Title": "Exponents.cpp",
+              "DocumentMoniker": "D:\\Learning-CPP\\CppProjects\\Exponents\\Exponents.cpp",
+              "RelativeDocumentMoniker": "Exponents\\Exponents.cpp",
+              "ToolTip": "D:\\Learning-CPP\\CppProjects\\Exponents\\Exponents.cpp",
+              "RelativeToolTip": "Exponents\\Exponents.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-21T20:22:17.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SimpleCalculator.cpp",
-              "DocumentMoniker": "D:\\Learning-CPP\\CppProjects\\CppProjects\\SimpleCalculator.cpp",
-              "RelativeDocumentMoniker": "CppProjects\\SimpleCalculator.cpp",
-              "ToolTip": "D:\\Learning-CPP\\CppProjects\\CppProjects\\SimpleCalculator.cpp",
-              "RelativeToolTip": "CppProjects\\SimpleCalculator.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-21T20:05:50.053Z",
+              "WhenOpened": "2025-09-30T23:34:08.221Z",
               "EditorCaption": ""
             }
           ]
