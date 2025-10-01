@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Learning-CPP\\CppProjects\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5AF128B8-6157-4AFE-BF5B-40B2D5F76BAC}|Exponents\\Exponents.vcxproj|D:\\Learning-CPP\\CppProjects\\Exponents\\Bookshelf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5AF128B8-6157-4AFE-BF5B-40B2D5F76BAC}|Exponents\\Exponents.vcxproj|solutionrelative:Exponents\\Bookshelf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3FF326DB-B9BB-4C70-9BE1-12F8BCDF192D}|Project1\\Project1.vcxproj|D:\\Learning-CPP\\CppProjects\\Project1\\GuessingGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3FF326DB-B9BB-4C70-9BE1-12F8BCDF192D}|Project1\\Project1.vcxproj|solutionrelative:Project1\\GuessingGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,19 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GuessingGame.cpp",
               "DocumentMoniker": "D:\\Learning-CPP\\CppProjects\\Project1\\GuessingGame.cpp",
               "RelativeDocumentMoniker": "Project1\\GuessingGame.cpp",
-              "ToolTip": "D:\\Learning-CPP\\CppProjects\\Project1\\GuessingGame.cpp*",
-              "RelativeToolTip": "Project1\\GuessingGame.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "ToolTip": "D:\\Learning-CPP\\CppProjects\\Project1\\GuessingGame.cpp",
+              "RelativeToolTip": "Project1\\GuessingGame.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-30T22:02:03.084Z",
+              "WhenOpened": "2025-10-01T17:55:36.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bookshelf.cpp",
+              "DocumentMoniker": "D:\\Learning-CPP\\CppProjects\\Exponents\\Bookshelf.cpp",
+              "RelativeDocumentMoniker": "Exponents\\Bookshelf.cpp",
+              "ToolTip": "D:\\Learning-CPP\\CppProjects\\Exponents\\Bookshelf.cpp*",
+              "RelativeToolTip": "Exponents\\Bookshelf.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-30T23:34:08.221Z",
               "EditorCaption": ""
             }
           ]

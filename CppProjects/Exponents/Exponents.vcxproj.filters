@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exponents.cpp">
+    <ClCompile Include="Bookshelf.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
